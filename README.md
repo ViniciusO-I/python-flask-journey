@@ -1,22 +1,35 @@
 # Jornada Python + Flask 🚀
 
-Este repositório acompanha minha jornada de aprendizado com foco no desenvolvimento de aplicações web com Python e Flask.
+Este repositorio acompanha minha jornada de aprendizado com foco no desenvolvimento de aplicacoes web com Python e Flask.
 
 ## ✅ Etapas
 
-### 01 - Introdução ao Python
-**Exercício:** Loja virtual com cálculo de impostos  
-**Objetivo:** Reforçar conceitos de variáveis, strings, números e lógica sequencial.
+### 01 - Introducao ao Python
+**Exercicio:** Loja virtual com calculo de impostos  
+**Objetivo:** Reforcar conceitos de variaveis, strings, numeros e logica sequencial.
 
-### 02 - Funções em Python
-**Exercício:** Planejamento de viagem com saudação, cálculo de tempo e definição de destino  
-**Objetivo:** Praticar definição de funções, parâmetros com valor padrão, retorno de valores e organização de lógica em blocos reutilizáveis.
+### 02 - Funcoes em Python
+**Exercicio:** Planejamento de viagem com saudacao, calculo de tempo e definicao de destino  
+**Objetivo:** Praticar definicao de funcoes, parametros com valor padrao, retorno de valores e organizacao de logica em blocos reutilizaveis.
 
-## 🚧 Próximos passos
-- Manipulação de arquivos
+### 03 - Funcoes aplicadas a fisica e funcoes lambda/map
+**Exercicios:**  
+- Conversao de temperatura (Fahrenheit para Celsius)  
+- Calculo de forca (F = m * a)  
+- Calculo de energia (E = m * c^2)  
+- Calculo de trabalho (Work = Forca * Distancia)  
+- Uso de funcoes lambda e map() com listas  
+
+**Objetivo:** Praticar funcoes com multiplos parametros, reutilizacao de logica, e exploracao de recursos de programacao funcional em Python.
+
+---
+
+## 🚧 Proximos passos
+
+- Manipulacao de arquivos  
 - Primeiros projetos com Flask
 
 ---
 
-**Curso base:** Build Python Web Apps with Flask - CodeAcademy 
-**Módulo atual:** Functions
+**Curso base:** Build Python Web Apps with Flask - CodeAcademy  
+**Modulo atual:** Functions
