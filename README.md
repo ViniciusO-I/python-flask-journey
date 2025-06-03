@@ -24,6 +24,21 @@ Este repositorio acompanha minha jornada de aprendizado com foco no desenvolvime
 
 ---
 
+# Etapa 04 - Projeto Magic 8-Ball 🎱
+
+Projeto baseado no classico brinquedo de previsao, adaptado em Python.
+
+## Conceitos praticados:
+
+- Geracao de numeros aleatorios com `random`
+- Uso de `if/elif/else`
+- Formatacao de strings com `f-string`
+- Variaveis personalizadas (nome, pergunta e resposta)
+
+
+---
+
+
 ## 🚧 Proximos passos
 
 - Manipulacao de arquivos  
