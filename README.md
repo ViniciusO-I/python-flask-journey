@@ -38,9 +38,23 @@ Projeto baseado no classico brinquedo de previsao, adaptado em Python.
 
 ---
 
+# Etapa 05 - Manipulacao de listas em Python
+
+Neste exercicio foi praticado o uso de listas e listas aninhadas para representar um boletim escolar. As operacoes incluidas foram:
+
+- Criacao de listas
+- Uso de append() e remove()
+- Atualizacao de valores via indices
+- Concatenacao de listas com +
+- Organizacao de estrutura em listas 2D (tipo matriz)
+
+---
+
+
+
 
 ## 🚧 Proximos passos
-
+- manipulacao de arquivos (txt e csv)
 - Manipulacao de arquivos  
 - Primeiros projetos com Flask
 
