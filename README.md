@@ -51,6 +51,21 @@ Neste exercicio foi praticado o uso de listas e listas aninhadas para representa
 ---
 
 
+# Etapa 06 - Analise de cortes de cabelo
+
+Neste exercicio foi praticada a manipulacao de listas, lacos de repeticao e list comprehensions para analisar precos e receitas de um salao de beleza.
+
+## Conceitos praticados:
+
+- Calculo de preco medio com for
+- Criacao de nova lista com desconto usando list comprehension
+- Calculo de receita semanal total com base em lista de vendas
+- Calculo da receita media diaria
+- Filtro de itens com preco abaixo de 30 usando list comprehension
+
+**Objetivo:** Aplicar logica de programacao para extrair informacoes uteis a partir de dados simples em listas.
+
+
 
 
 ## 🚧 Proximos passos
