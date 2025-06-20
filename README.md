@@ -66,6 +66,35 @@ Neste exercicio foi praticada a manipulacao de listas, lacos de repeticao e list
 **Objetivo:** Aplicar logica de programacao para extrair informacoes uteis a partir de dados simples em listas.
 
 
+#  Etapa 07 🧩 Jogo Scrabble — Versão Simplificada em Python
+
+Este projeto é uma versão simplificada do jogo **Scrabble**, desenvolvida com foco em lógica de programação e manipulação de dicionários em Python.  
+O sistema permite que diferentes jogadores joguem palavras e acumulem pontos automaticamente, de acordo com a pontuação clássica das letras.
+
+---
+
+## 🎯 Objetivo
+
+Criar uma estrutura simples para:
+- Atribuir pontos a letras (A–Z e espaço em branco)
+- Adicionar palavras jogadas por diferentes jogadores
+- Calcular automaticamente a pontuação total de cada jogador
+- Tratar letras com ou sem acentos de forma igualitária
+
+---
+
+## 🧠 Lógica principal
+
+- Usa `dict` para mapear letras a pontos
+- Função `score_word()` calcula a pontuação de cada palavra
+- Função `play_word()` adiciona uma nova palavra para o jogador
+- Função `update_point_totals()` recalcula os pontos totais de todos os jogadores
+- Letras com acentos são normalizadas (ex: `"á"` vira `"a"`)
+
+---
+
+
+
 
 
 ## 🚧 Proximos passos
