@@ -91,23 +91,8 @@ Criar uma estrutura simples para:
 - Função `update_point_totals()` recalcula os pontos totais de todos os jogadores
 - Letras com acentos são normalizadas (ex: `"á"` vira `"a"`)
 
----
 
-# Etapa 08 - Introducao a Programacao Orientada a Objetos (POO)
-
-Neste exercicio iniciamos o estudo de POO (Programacao Orientada a Objetos) em Python, criando duas classes principais: Estudante e Nota.
-
----
-
-## 🧠 Conceitos praticados:
-	-	Criacao de classes com class
-	-	Uso de construtor __init__ para definir atributos iniciais
-	-	Relacionamento entre classes (um estudante pode ter varias notas)
-	-	Validacao de tipo com type() antes de adicionar objetos
-	-	Constantes de classe (ex: nota_minima)
-	-	Uso de listas dentro de objetos para armazenar multiplos elementos
-
-   
+  
 ---
 
 ## 🐾 Projeto Flask – Adopt a Pet
