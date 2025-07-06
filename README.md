@@ -107,17 +107,34 @@ Neste exercicio iniciamos o estudo de POO (Programacao Orientada a Objetos) em P
 	-	Constantes de classe (ex: nota_minima)
 	-	Uso de listas dentro de objetos para armazenar multiplos elementos
 
+   
+---
 
----    
+## 🐾 Projeto Flask – Adopt a Pet
+
+Aplicacao web desenvolvida com Flask que simula um sistema de adocao de animais de estimacao. Permite explorar tipos de pets, visualizar listas e acessar paginas individuais com informacoes detalhadas.
+
+### ✨ Funcionalidades
+
+- Pagina inicial com links para "Dogs", "Cats" e "Rabbits"
+- Listagem de pets por categoria
+- Pagina de perfil com:
+  - Nome
+  - Imagem
+  - Descricao
+  - Raca
+  - Idade
 
 
 
+---
 
 
 ## 🚧 Proximos passos
+- Primeiros projetos com Flask
 - manipulacao de arquivos (txt e csv)
 - Manipulacao de arquivos  
-- Primeiros projetos com Flask
+
 
 ---
 
